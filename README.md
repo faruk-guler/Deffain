@@ -1,4 +1,5 @@
 # Deffain OpenSource Firewall [Nftables based]
+<img src="./img/deffain.png" alt="alt text" width="300" height="200">
 
 Deffain, Linux sunucularda nftables kullanarak firewall yönetimini çok basit komutlarla yapmanızı sağlayan açık kaynak bir güvenlik çözümüdür.
 
