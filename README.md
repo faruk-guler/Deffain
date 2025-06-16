@@ -1,4 +1,4 @@
-# Deffain OpenSource Firewall
+# Deffain OpenSource Firewall [Nftables based]
 
 Deffain, Linux sunucularda nftables kullanarak firewall yönetimini çok basit komutlarla yapmanızı sağlayan açık kaynak bir güvenlik çözümüdür.
 
